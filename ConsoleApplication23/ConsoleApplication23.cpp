@@ -24,3 +24,4 @@ void min()
     std::cout << "Min";
 }
 
+void FillArray() {}
